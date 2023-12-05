@@ -19,7 +19,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
-![Note Taker](/11-Express-NoteTaker-App/public/assets/media/Screenshot%202023-12-04%20at%204.31.38 PM.png)
+![Note Taker](public/assets/media/Screenshot 2023-12-04 at 4.31.38 PM.png)
 
 
 ## Credits
